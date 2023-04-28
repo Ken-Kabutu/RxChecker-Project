@@ -134,7 +134,7 @@ const getRandomMealDetails = async () => {
     console.error(err);
   }
 };
-
+//adding an event listener
 formSubmit.addEventListener('submit', searchMeal);
 meals.addEventListener('click', getMealDetails);
 randomBtn.addEventListener('click', getRandomMealDetails);
