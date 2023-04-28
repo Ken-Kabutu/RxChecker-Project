@@ -43,3 +43,5 @@ Open the index.html file in your web browser.
 Fork the repository: https://github.com/your-username/RxChecker.git
 Create a new branch: git checkout -b new-feature
 Make your changes and commit them: git commit -m 'Add new feature'
+Push to the branch: git push origin new-feature
+Create a pull request.
