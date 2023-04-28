@@ -48,3 +48,6 @@ Create a pull request.
 
 ## Contact
 For questions or inquiries, please contact the developer: https://github.com/Ken-Kabutu
+
+Developer: [Ken-Kabutu]
+Project Link: []
