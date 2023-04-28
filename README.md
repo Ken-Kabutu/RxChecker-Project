@@ -26,7 +26,7 @@ Lookup a single random meal    | https://www.themealdb.com/api/json/v1/1/random.
 To get started with RxChecker, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/RxChecker.git
-
+Open the text editor.project in your preferred. 
 
 
  # Usage
