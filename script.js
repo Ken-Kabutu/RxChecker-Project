@@ -3,6 +3,7 @@
 // Lookup full meal details by id: https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 // Lookup a single random meal: https://www.themealdb.com/api/json/v1/1/random.php
 
+//declaration of variables
 const searchInput = document.getElementById('search'),
   formSubmit = document.getElementById('form-submit'),
   randomBtn = document.getElementById('random-btn'),
