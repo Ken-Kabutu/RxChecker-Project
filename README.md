@@ -52,4 +52,4 @@ Create a pull request.
 For questions or inquiries, please contact the developer: https://github.com/Ken-Kabutu
 
 Developer: [Ken-Kabutu]
-Project Link: []
+Project Link: [https://github.com/Ken-Kabutu/RxChecker-Project/]
