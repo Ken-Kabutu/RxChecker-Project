@@ -27,6 +27,6 @@ To get started with RxChecker, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/RxChecker.git
 Open the text editor.project in your preferred. 
-
+Open the index.html file in your web browser.
 
  # Usage
