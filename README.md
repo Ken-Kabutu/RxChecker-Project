@@ -30,3 +30,4 @@ Open the text editor.project in your preferred.
 Open the index.html file in your web browser.
 
  # Usage
+ To use RxChecker, follow these steps:
