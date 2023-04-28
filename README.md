@@ -2,7 +2,7 @@
   - This is a simple and intuitive meal checker app , that checks fun facts about meals 
 
 ### Description 
-Meal Finder web app using HTML, CSS &amp; Vanilla JavaScript
+RxChecker web app using HTML, CSS & JavaScript
 
 
 ### Documentation 
@@ -39,6 +39,7 @@ Open the index.html file in your web browser.
  On the shuffle icon, once clicked the WebApp refreshes the page.
 
  ## Contributing
+ 
  To contribute to RxChecker, follow these steps:
 Fork the repository: https://github.com/your-username/RxChecker.git
 Create a new branch: git checkout -b new-feature
@@ -47,6 +48,7 @@ Push to the branch: git push origin new-feature
 Create a pull request.
 
 ## Contact
+
 For questions or inquiries, please contact the developer: https://github.com/Ken-Kabutu
 
 Developer: [Ken-Kabutu]
