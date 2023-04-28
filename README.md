@@ -34,3 +34,4 @@ Open the index.html file in your web browser.
 
  In the "search for meals" input field, enter the name of the meal you want to search for.
  Click on the search icon.
+ The webApp will display information about the meal searched.
