@@ -18,6 +18,8 @@ const searchMeal = async (e) => {
   searchKeyword.innerHTML = '';
   singleMeal.innerHTML = '';
 
+
+  //Fetch data
   if (input.trim()) {
     try {
       const data = await fetch(
