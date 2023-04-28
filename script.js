@@ -11,6 +11,7 @@ const searchInput = document.getElementById('search'),
   meals = document.getElementById('meals'),
   singleMeal = document.getElementById('single-meal');
 
+  //searching for a meal
 const searchMeal = async (e) => {
   e.preventDefault();
   const input = searchInput.value;
