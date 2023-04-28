@@ -23,7 +23,7 @@ Lookup a single random meal    | https://www.themealdb.com/api/json/v1/1/random.
 
 
  # Getting Started 
-
+To get started with RxChecker, follow these steps:
 
 
 
