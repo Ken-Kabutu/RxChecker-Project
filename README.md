@@ -37,3 +37,6 @@ Open the index.html file in your web browser.
  The webApp will display information about the meal searched.
 
  On the shuffle icon, once clicked the WebApp refreshes the page.
+
+ ## Contributing
+ To contribute to RxChecker, follow these steps:
