@@ -41,3 +41,5 @@ Open the index.html file in your web browser.
  ## Contributing
  To contribute to RxChecker, follow these steps:
 Fork the repository: https://github.com/your-username/RxChecker.git
+Create a new branch: git checkout -b new-feature
+Make your changes and commit them: git commit -m 'Add new feature'
