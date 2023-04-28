@@ -65,6 +65,8 @@ const displayMeal = (mealDetails) => {
       break;
     }
   }
+
+  //display of single meal
   singleMeal.innerHTML = `<div class='single-meal'>
     <h1>${mealDetails.strMeal}</h1>
     <img src='${mealDetails.strMealThumb}' alt='${mealDetails.strMeal}'/>
