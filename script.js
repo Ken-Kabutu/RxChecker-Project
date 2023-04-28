@@ -53,6 +53,7 @@ const searchMeal = async (e) => {
   }
 };
 
+//display the meals
 const displayMeal = (mealDetails) => {
   const ingredient1 = [];
   for (let i = 1; i <= 20; i++) {
