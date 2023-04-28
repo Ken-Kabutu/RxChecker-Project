@@ -40,3 +40,4 @@ Open the index.html file in your web browser.
 
  ## Contributing
  To contribute to RxChecker, follow these steps:
+Fork the repository: https://github.com/your-username/RxChecker.git
