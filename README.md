@@ -31,3 +31,5 @@ Open the index.html file in your web browser.
 
  # Usage
  To use RxChecker, follow these steps:
+
+ In the "search for meals" input field, enter the name of the meal you want to search for.
