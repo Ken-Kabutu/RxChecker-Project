@@ -68,7 +68,6 @@ const displayMeal = (mealDetails) => {
       ${mealDetails.strCategory ? `<p>${mealDetails.strCategory}</p>` : ''}
       ${mealDetails.strArea ? `<p>${mealDetails.strArea}</p>` : ''}
     </div>
-
     <div class='single-meal-details'>
       ${
         mealDetails.strInstructions
@@ -132,3 +131,6 @@ const getRandomMealDetails = async () => {
 formSubmit.addEventListener('submit', searchMeal);
 meals.addEventListener('click', getMealDetails);
 randomBtn.addEventListener('click', getRandomMealDetails);
+
+
+
